@@ -2,16 +2,18 @@
   --snow: color;
   --sky: color;
 }
+
 /* ^^ sets up a variable you can continue to use */
 
 @media (max-width: numpx) {
-  .classname{
+  .classname {
     rule;
   }
-  
+
 }
-.buy-button{
-position: absolute;
-top: percent%;
-right: percent%;
+
+.buy-button {
+  position: absolute;
+  top: percent%;
+  right: percent%;
 }
