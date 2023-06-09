@@ -3,6 +3,17 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+
+I feel like i am grasping the concepts and I am understanding lectures.
+
 - What did you learn that was a shock or surprise?
+
+Bootstrap is a really effective tool.
+
 - What are you struggling with?
+
+The speed at which I code.
+
 - What would you count as a victory?
+
+I am able to build rudimentary websites now.
